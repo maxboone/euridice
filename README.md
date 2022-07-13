@@ -1,5 +1,8 @@
+
+# Euridice (LUDBF)
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/6454510/178805067-f566b342-1526-4721-90d7-79380dc9a935.png" width="400" alt="Euridice Logo" />
+  <img src="https://user-images.githubusercontent.com/6454510/178805543-800c880f-9bb9-4c14-a2e2-8db8f9f13887.png" width="400" alt="Euridice Logo" />
 </div>
 
 Euridice is a framework designed to provide the tools for intuitive data
