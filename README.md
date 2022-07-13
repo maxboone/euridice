@@ -1,9 +1,7 @@
 
 # Euridice (LUDBF)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/6454510/178805543-800c880f-9bb9-4c14-a2e2-8db8f9f13887.png" width="400" alt="Euridice Logo" />
-</div>
+<img src="https://user-images.githubusercontent.com/6454510/178805543-800c880f-9bb9-4c14-a2e2-8db8f9f13887.png" width="100" alt="Euridice Logo" />
 
 Euridice is a framework designed to provide the tools for intuitive data
 quality improvement through the process of data cleansing. Built for a
