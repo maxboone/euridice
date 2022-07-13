@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/6454510/178803369-dc28461d-dccf-4b72-9b56-95d301dad1a6.png" width="400" alt="Euridice Logo" />
+  <img src="https://user-images.githubusercontent.com/6454510/178805067-f566b342-1526-4721-90d7-79380dc9a935.png" width="400" alt="Euridice Logo" />
 </div>
 
 Euridice is a framework designed to provide the tools for intuitive data
