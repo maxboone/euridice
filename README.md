@@ -1,5 +1,5 @@
 
-# Euridice (LUDBF)
+# Euridice (Extensible Data Cleansing Framework)
 
 <img src="https://user-images.githubusercontent.com/6454510/178805543-800c880f-9bb9-4c14-a2e2-8db8f9f13887.png" width="100" alt="Euridice Logo" />
 
